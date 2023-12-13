@@ -3,3 +3,6 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikhaelsiallagan&theme=whatsapp-dark2)](https://git.io/streak-stats)
+
+# 🏆Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelsiallagan&layout=compact)
