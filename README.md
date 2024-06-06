@@ -4,3 +4,8 @@
 # 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mikhaelsiallagan&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
+# 📊 THM Stats
+<script src="https://tryhackme.com/badge/2427437"></script>
+
+
+
